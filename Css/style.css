@@ -1,0 +1,39 @@
+.main{
+    border: rgb(25, 28, 179) solid 6px;
+    width: 400px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    
+}
+.abc{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    background-color:grey;
+    color: white;
+    
+}
+
+
+    .acb{
+        width: 407px;
+        height: 40px;
+        font-size: 30px;
+        color: red
+       
+    }
+
+    .btn{
+        width: 97px;
+        height: 30px;
+        font-size: 20px;
+        color: red
+    }
+
+    .cal{
+    text-align: center;
+    margin-top: 200px;
+    
+    }
