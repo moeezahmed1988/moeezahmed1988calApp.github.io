@@ -6,12 +6,7 @@
     }
 
 
-    @media only screen and (max-width: 600px) {
-        body {
-          background-color: lightblue;
-        }
-      }
-
+    
 .main{
     border: 
     rgb(25, 28, 179) solid 6px;
@@ -52,3 +47,10 @@
     margin-top: 200px;
     
     }
+
+
+    @media only screen and (max-width: 600px) {
+        body {
+          background-color: lightblue;
+        }
+      }
